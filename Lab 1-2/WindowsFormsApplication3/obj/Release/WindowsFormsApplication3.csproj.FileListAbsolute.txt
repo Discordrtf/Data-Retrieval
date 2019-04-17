@@ -1,0 +1,11 @@
+C:\Users\wwwle\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\wwwle\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\wwwle\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\wwwle\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Mono.Security.dll
+C:\Users\wwwle\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Npgsql.dll
+C:\Users\wwwle\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+C:\Users\wwwle\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\wwwle\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\wwwle\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\wwwle\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+C:\Users\wwwle\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
